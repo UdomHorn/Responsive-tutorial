@@ -1,0 +1,68 @@
+<nav class="flex justify-between mt-10 font-bold">
+  <div class="cursor-pointer px-10  ">Nike</div>
+  <div class="max-md:hidden">
+    <ul class="flex gap-8 ">
+      <li class="cursor-pointer hover:underline">New</li>
+      <li class="cursor-pointer hover:underline">Men</li>
+      <li class="cursor-pointer hover:underline">Women</li>
+      <li class="cursor-pointer hover:underline">Kid</li>
+      <li class="cursor-pointer hover:underline">Jordan</li>
+      <li class="cursor-pointer hover:underline">Sale</li>
+    </ul>
+  </div>
+  <div class="flex gap-8 px-10 ">
+    <div class="cursor-pointer hover:bg-gray-200 hover:rounded-full  ">Search</div>
+    <div class="cursor-pointer hover:bg-gray-200 hover:rounded-full">Heard</div>
+    <div class="cursor-pointer hover:bg-gray-200 hover:rounded-full">Bag</div>
+    <div class="cursor-pointer max-md:block hidden hover:bg-gray-200 hover:rounded-full">Burger</div>
+  </div>
+</nav>
+
+<div class="flex justify-center items-center  "> <img src="https://madkicks.sa/cdn/shop/collections/air_jordan_banner_9edda7fd-4dca-46be-a002-d0eda930535b_1200x1200.jpg?v=1714411336" alt="Nike shoe"></video></div>
+
+<div class="text-center mt-12 ">
+    <h1 class=" font-bold text-7xl max-md:text-5xl">RETRO RUNNERS</h1>
+    <P  class=" font-bold text-lg mt-4 break-words">Rooted in running, remastered for style. This collectionof iconic retro runners is back with more colors, finishes, and edge to elevate your fit.</P>
+    <button class="bg-black text-white font-bold px-4 py-1 rounded-full mt-4">Shop</button>
+  </div>
+
+
+    <div class="flex max-sm:flex-col mt-16">
+    <div class="bg-[url('https://static.nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/6dda1d18-23c9-4001-b68c-6b4944267465/women-s-shoes-clothing-accessories.jpg')] bg-center w-full h-[550px] " >
+      <div class="relative left-10 top-3/4">
+        <p class="font-bold text-lg text-white">Bring The Presure</p>
+      <h2 class="font-bold text-2xl text-white">LeBorn XXll 'TheLimeLight'</h2>
+      <button class="bg-white text-black font-bold px-4 py-1 rounded-full mt-4">Shop</button>
+      </div>
+    </div>
+    <div class="bg-[url('https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_1280.jpg')] bg-center w-full h-[550px] " >
+      <div class="relative left-10 top-3/4">
+        <p class="font-bold text-lg text-white">Feel More Alive</p>
+      <h2 class="font-bold text-2xl text-white">Nike ACG'</h2>
+      <button class="bg-white text-black font-bold px-4 py-1 rounded-full mt-4">Shop</button>
+      </div>
+    </div>
+  </div>
+<div class="flex max-sm:flex-col">
+    <div class="bg-[url('https://media.istockphoto.com/id/1303978937/photo/white-sneaker-on-a-blue-gradient-background-mens-fashion-sport-shoe-sneakers-lifestyle.jpg?s=612x612&w=0&k=20&c=L725fuzFTnm6qEaqE7Urc5q6IR80EgYQEjBn_qtBIQg=')] bg-center w-full h-[550px] " >
+      <div class="relative left-10 top-3/4">
+        <p class="font-bold text-lg text-white">Find Your Soft</p>
+      <h2 class="font-bold text-2xl text-white">Women's Zenvy Collection</h2>
+      <button class="bg-white text-black font-bold px-4 py-1 rounded-full mt-4">Shop</button>
+      </div>
+    </div>
+    <div class="bg-[url('https://images.prodirectsport.com/ProductImages/Main/1023663_Main_1897612.jpg')] bg-center w-full h-[550px] " >
+      <div class="relative left-10 top-3/4">
+        <p class="font-bold text-lg text-white">Freedom and Stability</p>
+      <h2 class="font-bold text-2xl text-white">Nike Free Metcon 6 </h2>
+      <button class="bg-white text-black font-bold px-4 py-1 rounded-full mt-4">Shop</button>
+      </div>
+    </div>
+  </div>
+<div class="text-center mt-16  ">
+    <h1 class=" font-bold text-7xl max-md:text-5xl">RUN THROUGH WINTER</h1>
+    <P  class=" font-bold text-lg mt-4 break-words">Essentials engineerd to keep runner dry, warm and focused on their New Year's goals.</P>
+    <button class="bg-black text-white font-bold px-4 py-1 rounded-full mt-4">Shop</button>
+  </div>
+
+  <div class="flex justify-center items-center mt-12 "> <img src="https://madkicks.sa/cdn/shop/collections/air_jordan_banner_9edda7fd-4dca-46be-a002-d0eda930535b_1200x1200.jpg?v=1714411336" alt="Nike shoe"></video></div>
